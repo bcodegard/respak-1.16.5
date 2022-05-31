@@ -1,0 +1,32 @@
+{
+  "item.easypaxellite.wood_paxel": "Wooden Mattock",
+  "item.easypaxellite.stone_paxel": "Stone Mattock",
+  "item.easypaxellite.iron_paxel": "Iron Mattock",
+  "item.easypaxellite.golden_paxel": "Golden Mattock",
+  "item.easypaxellite.diamond_paxel": "Diamond Mattock",
+  "item.easypaxellite.netherite_paxel": "Netherite Mattock",
+
+  "item.easypaxellite.tempered_netherite_paxel": "disabled",
+  "item.easypaxellite.adamantium_paxel": "disabled",
+  "item.easypaxellite.copper_paxel": "disabled",
+  "item.easypaxellite.mythril_paxel": "disabled",
+  "item.easypaxellite.onyx_paxel": "disabled",
+  "item.easypaxellite.tin_paxel": "disabled",
+  "item.easypaxellite.bone_paxel": "disabled",
+  "item.easypaxellite.coal_paxel": "disabled",
+  "item.easypaxellite.emerald_paxel": "disabled",
+  "item.easypaxellite.ender_paxel": "disabled",
+  "item.easypaxellite.fiery_paxel": "disabled",
+  "item.easypaxellite.glowstone_paxel": "disabled",
+  "item.easypaxellite.lapis_paxel": "disabled",
+  "item.easypaxellite.nether_paxel": "disabled",
+  "item.easypaxellite.obsidian_paxel": "disabled",
+  "item.easypaxellite.paper_paxel": "disabled",
+  "item.easypaxellite.prismarine_paxel": "disabled",
+  "item.easypaxellite.quartz_paxel": "disabled",
+  "item.easypaxellite.redstone_paxel": "disabled",
+  "item.easypaxellite.slime_paxel": "disabled",
+
+  "itemGroup.easypaxelliteTab": "Mattocks"
+
+}
